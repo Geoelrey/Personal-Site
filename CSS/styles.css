@@ -1,0 +1,189 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  color: #40514E;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  color: #11999E;
+  height: 100px;
+  position: relative;
+  padding-top: 50px;
+}
+
+h1 {
+  margin: 40px auto 0 auto;
+  color:#66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color:#66BFBF;
+
+  }
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAf6f6;
+}
+
+h3 {
+  margin: 0px;
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+hr {
+  margin: 70px auto 70px auto;
+  color: #EAF6F6;
+  border-style: none;
+  border-top: 10px dotted;
+  width: 10%;
+}
+
+.top-cloud{
+  right: 200px;
+  position: absolute;
+  top: 50px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 250px;
+
+}
+
+.mountain{
+  width: 450px;
+  height: 350px;
+
+}
+.digital{
+  text-decoration: underline;
+}
+
+.profile_pic{
+  border-radius: 100%;
+}
+
+.agile-icon{
+  width: 25%;
+  height: 150px;
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #004c4c;
+  border-width: 1px;
+  float: left;
+  margin-right: 30px;
+}
+
+.monetization-icon{
+  width: 25%;
+  height: 150px;
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #004c4c;
+  border-width: 1px;
+  float: right;
+  margin-left: 30px;
+}
+
+.gamification-icon{
+  width: 25%;
+  height: 150px;
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #004c4c;
+  border-width: 1px;
+  float: left;
+  margin-right: 30px;
+}
+
+.team-management-icon{
+  width: 25%;
+  height: 150px;
+  border-radius: 100%;
+  border-color: #004c4c;
+  border-style: solid;
+  border-width: 1px;
+  float: right;
+  margin-left: 30px;
+}
+
+.digital-pm{
+  font-weight: normal;
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+
+}
+
+.skills{
+  margin:100px auto 100px auto;
+  line-height: 2;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+
+.profile_pic{
+  width: 150px;
+  margin-top: 10%;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: sans-serif;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #66BFBF;
+   text-shadow: 5px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #2ABBBB;
+   border: solid #2ABBBB 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
